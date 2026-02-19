@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 Information Systems student at Universitas Komputer Indonesia.**
+🎓 Information Systems student at Universitas Komputer Indonesia.
 
-🌱 Currently learning Front-End and Back-End Development.**
+🌱 Currently learning Front-End and Back-End Development.
 
 
 ## Skills
