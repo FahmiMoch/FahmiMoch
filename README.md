@@ -1,6 +1,5 @@
 ## Hi, I'm Mochamad Fahmi 👋
 
-![Fahmi Moch](img/github-header-image%20(3).png)
 <!--
 **FahmiMoch/FahmiMoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently student on **Indonesian Computer University**
-🌱 I’m currently learning **Front End Development and Back End Development**
+🎓 Information Systems student at Universitas Komputer Indonesia.**
+
+🌱 Currently learning Front-End and Back-End Development.**
+
 
 ## Skills
 
