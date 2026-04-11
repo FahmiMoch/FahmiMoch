@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🎓 Information Systems student at Universitas Komputer Indonesia.
 
-🌱 Currently learning Front-End and Back-End Development.
+https://www.linkedin.com/in/mochamad-fahmi-fadillah-83b524334/
 
 
 ## Skills
