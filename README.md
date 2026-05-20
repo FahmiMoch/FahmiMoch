@@ -1,33 +1,34 @@
-## Hi, I'm Mochamad Fahmi Fadillah👋
+## Hi, I'm Mochamad Fahmi Fadillah 👋
 
-<!--
-**FahmiMoch/FahmiMoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Systems student at Universitas Komputer Indonesia (UNIKOM)  
+💻 Passionate about Front-End and Full-Stack Development  
+🚀 Interested in building modern, responsive, and user-friendly web applications  
 
-Here are some ideas to get you started:
+## Connect With Me
 
-- 🔭 I’m currently student on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://www.linkedin.com/in/mochamad-fahmi-fadillah">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-🎓 Information Systems student at Universitas Komputer Indonesia.
+  <a href="https://mochamad-fahmi-fadillah.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-https://www.linkedin.com/in/mochamad-fahmi-fadillah
-https://mochamad-fahmi-fadillah.vercel.app/
-
+---
 
 ## Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,prisma,postgres,git,docker" />
-</a>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,nodejs,express,prisma,postgres,git,docker,vscode" />
+  </a>
 </p>
+
+---
+
+## Tech Stack
 
 <p align="center">
 
@@ -40,6 +41,8 @@ https://mochamad-fahmi-fadillah.vercel.app/
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 
+<br><br>
+
 <!-- Backend -->
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
@@ -47,17 +50,11 @@ https://mochamad-fahmi-fadillah.vercel.app/
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
 
+<br><br>
+
 <!-- Tools -->
 <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
-</p>
-
-
-
-## Connect With Me
-<p align="center">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
