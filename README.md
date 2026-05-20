@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 🎓 Information Systems student at Universitas Komputer Indonesia.
 
 https://www.linkedin.com/in/mochamad-fahmi-fadillah
+https://mochamad-fahmi-fadillah.vercel.app/
 
 
 ## Skills
