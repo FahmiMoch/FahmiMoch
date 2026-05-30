@@ -28,8 +28,7 @@
 
 ## 🏆 My Certificates
 
-<p align="center">
+<p>
   <a href="https://www.dicoding.com/dicodingassets/coursecertificate/5304c6faa81c59d78d07caa32e8a158bdb253d53/view" target="_blank">
-    />
   </a>
 </p>
